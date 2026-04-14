@@ -1,16 +1,19 @@
-## Hi there 👋
+👋 Привет! Меня зовут Дмитрий, и я увлечённый разработчик, стремящийся к профессиональному росту в IT.
 
-<!--
-**DmitryTre/DmitryTre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👯 Ищу для сотрудничества:
+небольшие стартапы, где могу применить навыки бэкенд-разработки;
+открытые проекты с использованием Python/Django — готов внести вклад в код и документацию;
+менторство или обратную связь по текущим проектам.
 
-Here are some ideas to get you started:
+📫 Как со мной связаться:
+Telegram:  https://t.me/@DmitryTre86;
+Email: diamonbusiness@gmail.com;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Технологии, с которыми работаю:
+Языки: Python;
+Фреймворки: Django, Flask;
+Базы данных: PostgreSQL, SQLite;
+Инструменты: Git, GitHub, Docker, PostgreSQL;
+ОС: Linux (Ubuntu), Windows.
+
+Спасибо, что заглянули! Буду рад коллаборации или просто беседе об IT. 💻
